@@ -1,0 +1,4 @@
+# Private uploaded files live here (outside public web root).
+# Keep the folder, ignore its contents.
+*
+!.gitignore
