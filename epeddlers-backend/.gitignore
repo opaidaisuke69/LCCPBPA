@@ -1,0 +1,5 @@
+.env
+/storage/*
+!/storage/.gitignore
+/database/seed_users.sql
+*.log
